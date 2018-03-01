@@ -1,0 +1,1 @@
+<?php echo 'carregou a pagina teste';
